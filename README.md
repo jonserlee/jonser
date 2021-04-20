@@ -1,4 +1,4 @@
-## Welcome to Jonserlee's GitHub Pages
+# Welcome to Jonserlee's GitHub Pages
 
 卑鄙是卑鄙者的通行证
 高尚是高尚者的墓志铭
